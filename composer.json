@@ -1,0 +1,29 @@
+{
+  "name": "ym/weather",
+  "description": "高德地图天气SDK",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ym",
+      "email": "13528685024@163.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Ym\\Wather\\": "./src/",
+      "Ym\\Wather\\Tests\\": "./tests/"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "^6.3",
+    "phpunit/phpunit": "^8.1",
+    "mockery/mockery": "^1.2"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Ym\\Weather\\ServiceProvider"
+      ]
+    }
+  }
+}
