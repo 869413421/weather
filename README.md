@@ -1,6 +1,6 @@
 <h1 align="center"> wather </h1>
 
-<p align="center"> ''[D天气[[D[D[[C[C高德地图天气接口.</p>
+<p align="center"> 高德地图天气接口</p>
 
 
 ## Installing
