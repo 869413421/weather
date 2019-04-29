@@ -1,10 +1,10 @@
 {
-  "name": "ym/weather",
+  "name": "hym/weather",
   "description": "高德地图天气SDK",
   "license": "MIT",
   "authors": [
     {
-      "name": "ym",
+      "name": "hym",
       "email": "13528685024@163.com"
     }
   ],
