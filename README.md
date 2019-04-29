@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require ym/wather -vvv
+$ composer require hym/wather -vvv
 ```
 
 ## Usage
